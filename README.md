@@ -4,7 +4,7 @@ AI-generated pet audio emotion analyzer built with Streamlit.
 
 ## Live Demo
 
-[Launch Presence AI]{https://presence-ai.streamit.app)
+[Launch Presence AI]{https://presence-ai.streamlit.app/)
 
 ## Features
 
